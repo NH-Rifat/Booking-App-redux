@@ -1,0 +1,2 @@
+export const BOOKING_REQUEST_SUBMIT = "booking/BOOKING_REQUEST_SUBMIT";
+export const DELETE_BOOKING = "booking/DELETE_BOOKING";
